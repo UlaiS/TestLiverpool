@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App Test</string>
+
+    <string name="button_try_again">Intentar de nuevo</string>
+    <string name="menu_item_records">Busqueda de registros</string>
+
+    <string name="toolbar_navigation_close_description">Close</string>
+
+</resources>

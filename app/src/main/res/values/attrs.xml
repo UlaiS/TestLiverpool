@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="AppTestToolbarStyle" format="reference"/>
+    <attr name="AppTestToolbarWithCloseButtonStyle" format="reference"/>
+    <attr name="textInputSignInStyle" format="reference"/>
+    <attr name="colorPrymaryAppTest" format="reference"/>
+    <attr name="colorSurfaceAppTest" format="reference"/>
+    <attr name="design_snackbar_background_color" format="reference"/>
+</resources>
